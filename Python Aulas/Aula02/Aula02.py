@@ -14,3 +14,9 @@ s = n1 + n2
 
 #Diferentes tipos de print
 print ("A soma entre {} e {} é: {}".format(n1,n2,s))
+
+# n= input("Digite algo")
+# print (n.isnumeric()) - se é número
+# print (n.isalpha()) - Se é alphabeto (letra)
+## print (n.isalphanum()) - Se é alpha numérico
+## print (n.isupper()) - Pergunta se está somente com letras maiúsculas

@@ -1,3 +1,3 @@
-n = input("Digite um valor ")
+n = int(input("Digite um valor: "))
 print (type(n))
 
