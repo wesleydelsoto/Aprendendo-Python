@@ -3,4 +3,4 @@
 p = float(input("Digite o preço do produto R$ "))
 d = p * 0.05
 pf = p - d
-print (f" O produto que custava {p} R$ com desconto custa {pf:.2f} R$")
+print (f" O produto que custava R${p:.2f} R$ com desconto de 5% custa {pf:.2f} R$")
