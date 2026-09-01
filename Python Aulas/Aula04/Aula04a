@@ -1,0 +1,8 @@
+#Momento prático - importando um recurso único da biblioteca math
+from math import sqrt, floor
+num = int(input("Digite um número "))
+raiz = sqrt(num)
+print (f" A raiz de {num} é igual a {floor(raiz):.2f}")
+ # Para saber quantas e quais bibliotecas vc pode utilizar, deve entrar em python.org em docs,
+ # Seleciona qual versão ce quer, clica em library reference, exemplo a biblioteca random que pode usar n}s aleatórios
+ 
